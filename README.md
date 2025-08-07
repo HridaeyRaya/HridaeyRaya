@@ -28,8 +28,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=HridaaeyRayamajhi22&theme=dark&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HridaeyRayamajhi22&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
