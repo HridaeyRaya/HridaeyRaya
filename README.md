@@ -1,6 +1,13 @@
 # 💫 About Me:
 “I’m a passionate tech enthusiast and bachelor’s student dedicated to mastering full-stack development, exploring modern technologies, and building impactful projects that solve real-world problems.” <br>
 
+## ⚡ Fun Facts
+- 🌱 Currently learning **Web Development**.
+- 🎯 2025 Goal: Build and deploy at least **3 full-stack projects** to strengthen my portfolio and land my first freelance or internship opportunity.
+- 🎵 I code best with **rock songs** in the background.
+- 🐍 Java was my first serious programming language.
+- 🎸 I’m also a musician — a guitarist and singer who loves blending creativity with technology.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hrridaey) 
@@ -25,7 +32,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HridaeyRayamajhi22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=HridaaeyRayamajhi22&theme=dark&hide_border=true)
+
+[![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRayamajhi22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 ---
 
