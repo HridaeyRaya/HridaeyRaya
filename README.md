@@ -1,4 +1,4 @@
-## Hi, I’m Hridaaey Rayamajhi 👋
+                                                                     ## Hi, I’m Hridaaey Rayamajhi 👋
 
 
 # About Me:
@@ -6,8 +6,10 @@ Dedicated to mastering modern web technologies and building real-world solutions
 
 
 ## ⚡ Fun Facts
-🚀 Learning: Advanced web development (React, Node.js, Next.js, Django).
+🚀 Learning: Advanced web development (React, Node.js, Next.js, Django). 
+
 🎯 2025 Mission: Deliver 3+ full-stack applications to strengthen my portfolio and secure my first freelance/internship role.
+
 🎸 Beyond Code: Guitarist & vocalist — bringing creativity and rhythm into tech.
 
 
