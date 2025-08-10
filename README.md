@@ -42,6 +42,7 @@
 ## ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## 🛠 Tools & Others
@@ -66,9 +67,6 @@
 
 
 [![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRayamajhi22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-![Snake animation](https://github.com/HridaeyRayamajhi22/HridaeyRayamajhi22/blob/output/github-contribution-grid-snake.svg)
 
 
 
