@@ -1,4 +1,4 @@
-                                                                     ## Hi, I’m Hridaaey Rayamajhi 👋
+<h2 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h2>
 
 
 # About Me:
