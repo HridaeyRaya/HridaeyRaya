@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h1>
 
 
-# - About Me:
+# 💫 About Me:
 Dedicated to mastering modern web technologies and building real-world solutions.<br>
 
 
@@ -73,7 +73,8 @@ Dedicated to mastering modern web technologies and building real-world solutions
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HridaeyRayamajhi22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# My Activities
+# 💻 My Activities
 [![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRayamajhi22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+# 🤝 Lets Collaborate
 Open to collaboration, freelance opportunities, and innovative project ideas. Let’s build something impactful.
