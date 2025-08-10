@@ -1,4 +1,4 @@
-# Hi, I’m Hridaaey Rayamajhi
+## Hi, I’m Hridaaey Rayamajhi 👋
 
 
 # About Me:
