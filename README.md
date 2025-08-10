@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h2>
+<h1 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h1>
 
 
-# About Me:
+# - About Me:
 Dedicated to mastering modern web technologies and building real-world solutions.<br>
 
 
