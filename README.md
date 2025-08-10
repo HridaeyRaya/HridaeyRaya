@@ -1,12 +1,14 @@
-# 💫 About Me:
-“I’m a passionate tech enthusiast and bachelor’s student dedicated to mastering full-stack development, exploring modern technologies, and building impactful projects that solve real-world problems.” <br>
+# Hi, I’m Hridaaey Rayamajhi
+
+
+# About Me:
+Dedicated to mastering modern web technologies and building real-world solutions.<br>
+
 
 ## ⚡ Fun Facts
-- 🌱 Currently learning **Web Development**.
-- 🎯 2025 Goal: Build and deploy at least **3 full-stack projects** to strengthen my portfolio and land my first freelance or internship opportunity.
-- 🎵 I code best with **rock songs** in the background.
-- 🐍 Java was my first serious programming language.
-- 🎸 I’m also a musician — a guitarist and singer who loves blending creativity with technology.
+🚀 Learning: Advanced web development (React, Node.js, Next.js, Django).
+🎯 2025 Mission: Deliver 3+ full-stack applications to strengthen my portfolio and secure my first freelance/internship role.
+🎸 Beyond Code: Guitarist & vocalist — bringing creativity and rhythm into tech.
 
 
 ## 🌐 Socials:
@@ -51,27 +53,25 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HridaeyRayamajhi22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HridaeyRayamajhi22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HridaeyRayamajhi22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+# My Activities
 [![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRayamajhi22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Open to collaboration, freelance opportunities, and innovative project ideas. Let’s build something impactful.
