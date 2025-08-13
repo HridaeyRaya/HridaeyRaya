@@ -1,12 +1,10 @@
-<h1 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h1>
+🚀 Hridaaey Rayamajhi - Full-Stack Developer & Creative Technologist
 
-# 💫 About Me
-Dedicated to mastering modern web technologies and building real-world solutions.
-
-## ⚡ Fun Facts
-- 🚀 **Learning:** Advanced web development (React, Node.js, Next.js, Django)  
-- 🎯 **2025 Mission:** Deliver 3+ full-stack applications to strengthen my portfolio and secure my first freelance/internship role  
-- 🎸 **Beyond Code:** Guitarist & vocalist — bringing creativity and rhythm into tech  
++---------------------------------------------------------------------+
+|  Innovative developer blending technical expertise with artistic    |
+|  expression to build immersive digital experiences. Currently      |
+|  mastering the MERN stack while composing code symphonies.          |
++---------------------------------------------------------------------+
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hrridaey) 
