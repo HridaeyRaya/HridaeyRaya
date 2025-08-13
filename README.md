@@ -62,7 +62,9 @@ Dedicated to mastering modern web technologies and building real-world solutions
 VS Code | Git | GitHub CLI | Postman
 
 # 🏆 Achievements & Certificates
-- 🏅 React Js 
+- Frontend Development with React.Js
+- Linux Virtualization for Machine Learning
+- GIT Training
   
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
