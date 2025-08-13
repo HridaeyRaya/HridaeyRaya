@@ -58,21 +58,12 @@ Dedicated to mastering modern web technologies and building real-world solutions
 - Django ⚡⚡  
 - TypeScript ⚡⚡  
 
-# 🏗 Featured Projects
-| Project | Tech | Live | Repo |
-|---------|------|------|------|
-| Portfolio Website | React, Tailwind | [Live](hridaeyraya.com.np)
-| E-commerce App | Next.js, Node.js, MongoDB | [Live](#) | [Repo](#) |
-| Blog Platform | Django, MySQL | [Live](#) | [Repo](#) |
-
 # 🛠 Daily Tools
-VS Code | Git | GitHub CLI | Linux | Figma | Postman
+VS Code | Git | GitHub CLI | Postman
 
 # 🏆 Achievements & Certificates
-- 🏅 Hackathon Winner – XYZ Hack 2024  
-- 📝 Certified in React & Node.js by [Platform Name]  
-- 🌟 Completed 100+ commits in open-source projects  
-
+- 🏅 React Js 
+  
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HridaeyRayamajhi22&theme=dark&hide_border=false)<br/>
