@@ -1,24 +1,19 @@
 <h1 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h1>
 
-
-# 💫 About Me:
+# 💫 About Me
 Dedicated to mastering modern web technologies and building real-world solutions.<br>
 
-
 ## ⚡ Fun Facts
-🚀 Learning: Advanced web development (React, Node.js, Next.js, Django). 
-
-🎯 2025 Mission: Deliver 3+ full-stack applications to strengthen my portfolio and secure my first freelance/internship role.
-
+🚀 Learning: Advanced web development (React, Node.js, Next.js, Django).  
+🎯 2025 Mission: Deliver 3+ full-stack applications to strengthen my portfolio and secure my first freelance/internship role.  
 🎸 Beyond Code: Guitarist & vocalist — bringing creativity and rhythm into tech.
 
-
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hrridaey) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hridaey__) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hridaaeyrayamajhi22) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hridaaey_rayamajhi) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hridaeyraya.22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hridaeyraya.22@gmail.com)
 
 # 💻 Tech Stack
 
@@ -55,27 +50,39 @@ Dedicated to mastering modern web technologies and building real-world solutions
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
+# 📈 Learning Progress
+**My 2025 Goals:**  
+- React ⚡⚡⚡⚡⚡  
+- Node.js ⚡⚡⚡⚡  
+- Next.js ⚡⚡⚡  
+- Django ⚡⚡  
+- TypeScript ⚡⚡  
 
-# 📊 GitHub Stats:
+# 🏗 Featured Projects
+| Project | Tech | Live | Repo |
+|---------|------|------|------|
+| Portfolio Website | React, Tailwind | [Live](#) | [Repo](#) |
+| E-commerce App | Next.js, Node.js, MongoDB | [Live](#) | [Repo](#) |
+| Blog Platform | Django, MySQL | [Live](#) | [Repo](#) |
+
+# 🛠 Daily Tools
+VS Code | Git | GitHub CLI | Linux | Figma | Postman
+
+# 🏆 Achievements & Certificates
+- 🏅 Hackathon Winner – XYZ Hack 2024  
+- 📝 Certified in React & Node.js by [Platform Name]  
+- 🌟 Completed 100+ commits in open-source projects  
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HridaeyRayamajhi22&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HridaeyRayamajhi22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HridaeyRayamajhi22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 💻 My Activities
 [![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRayamajhi22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 🤝 Lets Collaborate
+# 🤝 Let's Collaborate
 Open to collaboration, freelance opportunities, and innovative project ideas. Let’s build something impactful.
-
