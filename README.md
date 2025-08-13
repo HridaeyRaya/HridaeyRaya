@@ -61,7 +61,7 @@ Dedicated to mastering modern web technologies and building real-world solutions
 # 🏗 Featured Projects
 | Project | Tech | Live | Repo |
 |---------|------|------|------|
-| Portfolio Website | React, Tailwind | [Live](#hridaeyraya.com.np)
+| Portfolio Website | React, Tailwind | [Live](hridaeyraya.com.np)
 | E-commerce App | Next.js, Node.js, MongoDB | [Live](#) | [Repo](#) |
 | Blog Platform | Django, MySQL | [Live](#) | [Repo](#) |
 
