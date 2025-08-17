@@ -55,7 +55,7 @@ Dedicated to mastering modern web technologies and building real-world solutions
 - React ⚡⚡⚡⚡⚡  
 - Node.js ⚡⚡⚡⚡  
 - Next.js ⚡⚡⚡  
-- Django ⚡⚡  
+- Django ⚡  
 - TypeScript ⚡⚡  
 
 # 🛠 Daily Tools
