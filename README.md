@@ -4,8 +4,15 @@
 A curious problem-solver with a passion for crafting modern web experiences. I love turning ideas into functional, elegant solutions while continuously exploring the latest in web technologies.<br>
 
 ## ⚡ Fun Facts
-🚀 Learning: Advanced web development (React, Node.js, Next.js, Django).  
-🎸 Beyond Code: Guitarist & vocalist — bringing creativity and rhythm into tech.
+Fun Facts
+
+🚀 Tech Explorer: Diving deep into React, Node.js, Next.js, and Django—building tools that actually make life easier.
+
+🎸 Creative Mind: Guitarist and vocalist, blending rhythm and creativity into code. Every project gets a touch of artistry.
+
+🌱 Forever Learning: Constantly experimenting, breaking things, and discovering smarter ways to build.
+
+✨ Nature & Inspiration: Inspired by the world around me—designs and solutions often start with a spark from nature or a melody.
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hrridaey) 
