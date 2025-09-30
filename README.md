@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Hridaaey Rayamajhi 👋</h1>
+<h1 align="center">Hi, I’m Hridaey Raya 👋</h1>
 
 # 💫 About Me
 A curious problem-solver with a passion for crafting modern web experiences. I love turning ideas into functional, elegant solutions while continuously exploring the latest in web technologies.<br>
