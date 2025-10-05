@@ -69,15 +69,15 @@ VS Code | Git | GitHub CLI | Postman
 - GIT Training
   
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HridaeyRayamajhi22&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRayamajhi22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=HridaeyRaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HridaeyRaya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💻 My Activities
-[![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRayamajhi22&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hridaey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRaya&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🤝 Let's Collaborate
 Open to collaboration, freelance opportunities, and innovative project ideas. Let’s build something impactful.
