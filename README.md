@@ -55,9 +55,9 @@ Fun Facts
 # 📈 Learning Progress
 **My 2025 Goals:**  
 - React ⚡⚡⚡⚡⚡  
-- Node.js ⚡⚡⚡⚡  
-- Next.js ⚡⚡⚡  
-- Django ⚡  
+- Node.js ⚡⚡⚡  
+- Next.js ⚡⚡⚡⚡
+- Django ⚡⚡⚡   
 - TypeScript ⚡⚡  
 
 # 🛠 Daily Tools
