@@ -53,12 +53,13 @@ Fun Facts
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 # 📈 Learning Progress
-**My 2025 Goals:**  
+**My 2026 Goals:**  
 - React ⚡⚡⚡⚡⚡  
 - Node.js ⚡⚡⚡  
 - Next.js ⚡⚡⚡⚡
 - Django ⚡⚡⚡   
-- TypeScript ⚡⚡  
+- TypeScript ⚡⚡⚡
+- Laravel ⚡⚡⚡⚡
 
 # 🛠 Daily Tools
 VS Code | Git | GitHub CLI | Postman
