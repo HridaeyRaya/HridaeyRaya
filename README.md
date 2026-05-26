@@ -62,8 +62,6 @@ const hridaey = {
 <!-- STATS — using stats.hyochan.dev (reliable alternative) -->
 <img src="https://github-stats.as93.net/api?username=HridaeyRaya&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&text_color=e8e8f0&icon_color=a259ff&bg_color=0a0a0f&border_radius=12" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<!-- STREAK — demolab is reliable -->
-<img src="https://streak-stats.demolab.com?user=HridaeyRaya&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=a259ff&currStreakLabel=e8e8f0&border_radius=12&dates=7878a0&stroke=2a2a3a&sideLabels=7878a0" height="170" alt="Streak Stats"/>
 
 <br/><br/>
 
