@@ -67,8 +67,6 @@ const hridaey = {
 
 <br/><br/>
 
-<!-- TOP LANGS — using alternate instance -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRaya&layout=compact&hide_border=true&title_color=00e5ff&text_color=e8e8f0&bg_color=0a0a0f&border_radius=12&langs_count=8&cache_seconds=1800" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -87,9 +85,6 @@ const hridaey = {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRaya&theme=tokyo-night&area=true&hide_border=true&bg_color=0a0a0f&color=00e5ff&line=a259ff&point=ffd166&area_color=00e5ff)](https://github.com/HridaeyRaya)
 
 <br/><br/>
-
-<!-- TROPHIES — using ryo-ma instance which is most stable -->
-<img src="https://github-profile-trophy.vercel.app/?username=HridaeyRaya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" alt="Trophies" width="100%"/>
 
 </div>
 
