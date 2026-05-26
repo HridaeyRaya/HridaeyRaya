@@ -1,0 +1,113 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#16161f"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00e5ff"/>
+      <stop offset="100%" style="stop-color:#a259ff"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00e5ff;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00e5ff;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#a259ff;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bgGrad)" rx="16"/>
+
+  <!-- Grid lines horizontal -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#00e5ff" stroke-width="0.3" opacity="0.15"/>
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#00e5ff" stroke-width="0.3" opacity="0.15"/>
+  <line x1="0" y1="180" x2="900" y2="180" stroke="#00e5ff" stroke-width="0.3" opacity="0.15"/>
+  <line x1="0" y1="240" x2="900" y2="240" stroke="#00e5ff" stroke-width="0.3" opacity="0.15"/>
+
+  <!-- Grid lines vertical -->
+  <line x1="100" y1="0" x2="100" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="200" y1="0" x2="200" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="300" y1="0" x2="300" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="400" y1="0" x2="400" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="500" y1="0" x2="500" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="600" y1="0" x2="600" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="700" y1="0" x2="700" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="800" y1="0" x2="800" y2="280" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+
+  <!-- Glow orb left -->
+  <circle cx="120" cy="140" r="80" fill="#00e5ff" opacity="0.04"/>
+  <!-- Glow orb right -->
+  <circle cx="780" cy="140" r="80" fill="#a259ff" opacity="0.04"/>
+
+  <!-- Status dot + text -->
+  <circle cx="310" cy="62" r="5" fill="#06d6a0">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="322" y="67" font-family="monospace" font-size="11" fill="#06d6a0" letter-spacing="2">AVAILABLE FOR WORK</text>
+
+  <!-- Main name -->
+  <text x="450" y="130" font-family="'Arial Black', sans-serif" font-size="56" font-weight="900"
+    text-anchor="middle" fill="url(#nameGrad)" filter="url(#glow)" letter-spacing="-1">
+    HRIDAEY RAYA
+  </text>
+
+  <!-- Divider line -->
+  <rect x="200" y="148" width="500" height="1.5" fill="url(#lineGrad)" rx="1"/>
+
+  <!-- Role text -->
+  <text x="450" y="178" font-family="monospace" font-size="14" text-anchor="middle" fill="#7878a0" letter-spacing="4">
+    FULL-STACK DEVELOPER  ·  GUITARIST  ·  BUILDER
+  </text>
+
+  <!-- Quote -->
+  <text x="450" y="215" font-family="Georgia, serif" font-size="13" text-anchor="middle" fill="#e8e8f0" opacity="0.6" font-style="italic">
+    "Code with rhythm, ship with melody."
+  </text>
+
+  <!-- Location -->
+  <text x="450" y="248" font-family="monospace" font-size="11" text-anchor="middle" fill="#7878a0" letter-spacing="2">
+    🇳🇵  KATHMANDU, NEPAL
+  </text>
+
+  <!-- Corner brackets top-left -->
+  <path d="M20 20 L20 8 L32 8" stroke="#00e5ff" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Corner brackets top-right -->
+  <path d="M880 20 L880 8 L868 8" stroke="#00e5ff" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Corner brackets bottom-left -->
+  <path d="M20 260 L20 272 L32 272" stroke="#a259ff" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Corner brackets bottom-right -->
+  <path d="M880 260 L880 272 L868 272" stroke="#a259ff" stroke-width="1.5" fill="none" opacity="0.6"/>
+
+  <!-- EQ bars (music visualizer) bottom right -->
+  <g transform="translate(740, 235)">
+    <rect x="0" y="0" width="6" height="20" rx="3" fill="#00e5ff" opacity="0.7">
+      <animate attributeName="height" values="20;8;20" dur="0.7s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;6;0" dur="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="0" width="6" height="14" rx="3" fill="#a259ff" opacity="0.7">
+      <animate attributeName="height" values="14;24;14" dur="0.9s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;-5;0" dur="0.9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="20" y="0" width="6" height="22" rx="3" fill="#00e5ff" opacity="0.7">
+      <animate attributeName="height" values="22;6;22" dur="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;8;0" dur="0.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="30" y="0" width="6" height="10" rx="3" fill="#a259ff" opacity="0.7">
+      <animate attributeName="height" values="10;22;10" dur="1.0s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;-6;0" dur="1.0s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="40" y="0" width="6" height="18" rx="3" fill="#ffd166" opacity="0.7">
+      <animate attributeName="height" values="18;8;18" dur="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;5;0" dur="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Code tag top-left decoration -->
+  <text x="36" y="36" font-family="monospace" font-size="11" fill="#00e5ff" opacity="0.4">&lt;dev&gt;</text>
+  <!-- Code tag bottom-right decoration -->
+  <text x="820" y="258" font-family="monospace" font-size="11" fill="#a259ff" opacity="0.4">&lt;/dev&gt;</text>
+</svg>

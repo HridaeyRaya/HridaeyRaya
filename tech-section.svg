@@ -1,0 +1,161 @@
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#16161f"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00e5ff"/>
+      <stop offset="100%" style="stop-color:#a259ff"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a259ff"/>
+      <stop offset="100%" style="stop-color:#ef476f"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffd166"/>
+      <stop offset="100%" style="stop-color:#06d6a0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="520" fill="url(#bg)" rx="16"/>
+
+  <!-- Grid -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="450" y1="0" x2="450" y2="520" stroke="#00e5ff" stroke-width="0.3" opacity="0.08"/>
+
+  <!-- Section label -->
+  <text x="36" y="38" font-family="monospace" font-size="10" fill="#00e5ff" letter-spacing="3" opacity="0.8">// TECH ARSENAL</text>
+  <rect x="160" y="30" width="704" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- ── LEFT COLUMN: FRONTEND ── -->
+  <text x="36" y="75" font-family="monospace" font-size="10" fill="#7878a0" letter-spacing="3">FRONTEND</text>
+  <rect x="36" y="82" width="380" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- React -->
+  <text x="36" y="108" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">⚛  React</text>
+  <rect x="36" y="113" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="113" width="370" height="4" rx="2" fill="url(#bar1)"/>
+  <text x="420" y="120" font-family="monospace" font-size="9" fill="#00e5ff" text-anchor="end">97%</text>
+
+  <!-- Next.js -->
+  <text x="36" y="138" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">▲  Next.js</text>
+  <rect x="36" y="143" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="143" width="342" height="4" rx="2" fill="url(#bar1)"/>
+  <text x="420" y="150" font-family="monospace" font-size="9" fill="#00e5ff" text-anchor="end">90%</text>
+
+  <!-- JavaScript -->
+  <text x="36" y="168" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🟨  JavaScript</text>
+  <rect x="36" y="173" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="173" width="361" height="4" rx="2" fill="url(#bar1)"/>
+  <text x="420" y="180" font-family="monospace" font-size="9" fill="#00e5ff" text-anchor="end">95%</text>
+
+  <!-- Tailwind -->
+  <text x="36" y="198" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🎨  Tailwind CSS</text>
+  <rect x="36" y="203" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="203" width="350" height="4" rx="2" fill="url(#bar1)"/>
+  <text x="420" y="210" font-family="monospace" font-size="9" fill="#00e5ff" text-anchor="end">92%</text>
+
+  <!-- HTML/CSS -->
+  <text x="36" y="228" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🌐  HTML5 / CSS3</text>
+  <rect x="36" y="233" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="233" width="380" height="4" rx="2" fill="url(#bar1)"/>
+  <text x="420" y="240" font-family="monospace" font-size="9" fill="#00e5ff" text-anchor="end">99%</text>
+
+  <!-- ── LEFT COLUMN: BACKEND ── -->
+  <text x="36" y="275" font-family="monospace" font-size="10" fill="#7878a0" letter-spacing="3">BACKEND</text>
+  <rect x="36" y="282" width="380" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- Node.js -->
+  <text x="36" y="308" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🟩  Node.js</text>
+  <rect x="36" y="313" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="313" width="342" height="4" rx="2" fill="url(#bar2)"/>
+  <text x="420" y="320" font-family="monospace" font-size="9" fill="#a259ff" text-anchor="end">90%</text>
+
+  <!-- Express -->
+  <text x="36" y="338" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🚂  Express.js</text>
+  <rect x="36" y="343" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="343" width="334" height="4" rx="2" fill="url(#bar2)"/>
+  <text x="420" y="350" font-family="monospace" font-size="9" fill="#a259ff" text-anchor="end">88%</text>
+
+  <!-- Django -->
+  <text x="36" y="368" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🐍  Django</text>
+  <rect x="36" y="373" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="373" width="274" height="4" rx="2" fill="url(#bar2)"/>
+  <text x="420" y="380" font-family="monospace" font-size="9" fill="#a259ff" text-anchor="end">72%</text>
+
+  <!-- PHP/Laravel -->
+  <text x="36" y="398" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🔴  PHP / Laravel</text>
+  <rect x="36" y="403" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="36" y="403" width="247" height="4" rx="2" fill="url(#bar2)"/>
+  <text x="420" y="410" font-family="monospace" font-size="9" fill="#a259ff" text-anchor="end">65%</text>
+
+  <!-- ── RIGHT COLUMN: DATABASES ── -->
+  <text x="484" y="75" font-family="monospace" font-size="10" fill="#7878a0" letter-spacing="3">DATABASES</text>
+  <rect x="484" y="82" width="380" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- MongoDB -->
+  <text x="484" y="108" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🍃  MongoDB</text>
+  <rect x="484" y="113" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="113" width="335" height="4" rx="2" fill="url(#bar3)"/>
+  <text x="868" y="120" font-family="monospace" font-size="9" fill="#ffd166" text-anchor="end">88%</text>
+
+  <!-- MySQL -->
+  <text x="484" y="138" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🐬  MySQL</text>
+  <rect x="484" y="143" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="143" width="323" height="4" rx="2" fill="url(#bar3)"/>
+  <text x="868" y="150" font-family="monospace" font-size="9" fill="#ffd166" text-anchor="end">85%</text>
+
+  <!-- ── RIGHT COLUMN: CLOUD ── -->
+  <text x="484" y="185" font-family="monospace" font-size="10" fill="#7878a0" letter-spacing="3">CLOUD &amp; DEPLOYMENT</text>
+  <rect x="484" y="192" width="380" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- AWS -->
+  <text x="484" y="218" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">☁  AWS</text>
+  <rect x="484" y="223" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="223" width="285" height="4" rx="2" fill="url(#bar3)"/>
+  <text x="868" y="230" font-family="monospace" font-size="9" fill="#06d6a0" text-anchor="end">75%</text>
+
+  <!-- Vercel -->
+  <text x="484" y="248" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">▲  Vercel</text>
+  <rect x="484" y="253" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="253" width="350" height="4" rx="2" fill="url(#bar3)"/>
+  <text x="868" y="260" font-family="monospace" font-size="9" fill="#06d6a0" text-anchor="end">92%</text>
+
+  <!-- Netlify -->
+  <text x="484" y="278" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🌐  Netlify</text>
+  <rect x="484" y="283" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="283" width="342" height="4" rx="2" fill="url(#bar3)"/>
+  <text x="868" y="290" font-family="monospace" font-size="9" fill="#06d6a0" text-anchor="end">90%</text>
+
+  <!-- ── RIGHT COLUMN: 2026 ROADMAP ── -->
+  <text x="484" y="325" font-family="monospace" font-size="10" fill="#7878a0" letter-spacing="3">2026 ROADMAP</text>
+  <rect x="484" y="332" width="380" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- Roadmap items with colored bars -->
+  <text x="484" y="358" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">⚛  React</text>
+  <rect x="484" y="363" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="363" width="380" height="4" rx="2" fill="#00e5ff"/>
+  <text x="868" y="370" font-family="monospace" font-size="9" fill="#00e5ff" text-anchor="end">100% 🔥</text>
+
+  <text x="484" y="388" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🟩  Node.js</text>
+  <rect x="484" y="393" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="393" width="285" height="4" rx="2" fill="#a259ff"/>
+  <text x="868" y="400" font-family="monospace" font-size="9" fill="#a259ff" text-anchor="end">75%</text>
+
+  <text x="484" y="418" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🔵  TypeScript</text>
+  <rect x="484" y="423" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="423" width="228" height="4" rx="2" fill="#ffd166"/>
+  <text x="868" y="430" font-family="monospace" font-size="9" fill="#ffd166" text-anchor="end">60%</text>
+
+  <text x="484" y="448" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#e8e8f0">🔴  Laravel</text>
+  <rect x="484" y="453" width="380" height="4" rx="2" fill="#1a1a26"/>
+  <rect x="484" y="453" width="228" height="4" rx="2" fill="#ef476f"/>
+  <text x="868" y="460" font-family="monospace" font-size="9" fill="#ef476f" text-anchor="end">60%</text>
+
+  <!-- Corner brackets -->
+  <path d="M20 20 L20 8 L32 8" stroke="#00e5ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M880 20 L880 8 L868 8" stroke="#00e5ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M20 500 L20 512 L32 512" stroke="#a259ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M880 500 L880 512 L868 512" stroke="#a259ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+</svg>

@@ -1,0 +1,77 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="100%" style="stop-color:#16161f"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" fill="url(#bg)" rx="16"/>
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#00e5ff" stroke-width="0.3" opacity="0.1"/>
+  <line x1="450" y1="0" x2="450" y2="260" stroke="#00e5ff" stroke-width="0.3" opacity="0.06"/>
+
+  <!-- LEFT: Daily Drivers -->
+  <text x="36" y="38" font-family="monospace" font-size="10" fill="#00e5ff" letter-spacing="3" opacity="0.8">// DAILY DRIVERS</text>
+  <rect x="192" y="30" width="222" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- Tool chips -->
+  <!-- VS Code -->
+  <rect x="36" y="68" width="90" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="81" y="86" font-family="monospace" font-size="10" fill="#007ACC" text-anchor="middle" font-weight="700">VS Code</text>
+
+  <!-- Git -->
+  <rect x="136" y="68" width="55" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="163" y="86" font-family="monospace" font-size="10" fill="#F05032" text-anchor="middle" font-weight="700">Git</text>
+
+  <!-- GitHub -->
+  <rect x="201" y="68" width="85" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="243" y="86" font-family="monospace" font-size="10" fill="#e8e8f0" text-anchor="middle" font-weight="700">GitHub CLI</text>
+
+  <!-- Postman -->
+  <rect x="296" y="68" width="80" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="336" y="86" font-family="monospace" font-size="10" fill="#FF6C37" text-anchor="middle" font-weight="700">Postman</text>
+
+  <!-- NPM -->
+  <rect x="36" y="106" width="55" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="63" y="124" font-family="monospace" font-size="10" fill="#CB3837" text-anchor="middle" font-weight="700">NPM</text>
+
+  <!-- Python -->
+  <rect x="101" y="106" width="75" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="138" y="124" font-family="monospace" font-size="10" fill="#3776AB" text-anchor="middle" font-weight="700">Python</text>
+
+  <!-- PowerShell -->
+  <rect x="186" y="106" width="95" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="233" y="124" font-family="monospace" font-size="10" fill="#5391FE" text-anchor="middle" font-weight="700">PowerShell</text>
+
+  <!-- Vite -->
+  <rect x="291" y="106" width="55" height="28" rx="6" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="318" y="124" font-family="monospace" font-size="10" fill="#646CFF" text-anchor="middle" font-weight="700">Vite</text>
+
+  <!-- RIGHT: Achievements -->
+  <text x="484" y="38" font-family="monospace" font-size="10" fill="#ffd166" letter-spacing="3" opacity="0.8">// ACHIEVEMENTS</text>
+  <rect x="635" y="30" width="249" height="1" fill="#2a2a3a" rx="1"/>
+
+  <!-- Achievement 1 -->
+  <rect x="484" y="60" width="380" height="48" rx="8" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="504" y="82" font-family="Arial, sans-serif" font-size="18">🎖️</text>
+  <text x="534" y="80" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#e8e8f0">Frontend Development with React.js</text>
+  <text x="534" y="97" font-family="monospace" font-size="9" fill="#7878a0" letter-spacing="1">CERTIFIED · FRONTEND ENGINEERING</text>
+
+  <!-- Achievement 2 -->
+  <rect x="484" y="118" width="380" height="48" rx="8" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="504" y="140" font-family="Arial, sans-serif" font-size="18">🧠</text>
+  <text x="534" y="138" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#e8e8f0">Linux Virtualization for ML</text>
+  <text x="534" y="155" font-family="monospace" font-size="9" fill="#7878a0" letter-spacing="1">CERTIFIED · DEVOPS &amp; ML INFRASTRUCTURE</text>
+
+  <!-- Achievement 3 -->
+  <rect x="484" y="176" width="380" height="48" rx="8" fill="#1a1a26" stroke="#2a2a3a" stroke-width="1"/>
+  <text x="504" y="198" font-family="Arial, sans-serif" font-size="18">📜</text>
+  <text x="534" y="196" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#e8e8f0">GIT Training</text>
+  <text x="534" y="213" font-family="monospace" font-size="9" fill="#7878a0" letter-spacing="1">CERTIFIED · VERSION CONTROL</text>
+
+  <!-- Corner brackets -->
+  <path d="M20 20 L20 8 L32 8" stroke="#00e5ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M880 20 L880 8 L868 8" stroke="#00e5ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M20 240 L20 252 L32 252" stroke="#a259ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M880 240 L880 252 L868 252" stroke="#a259ff" stroke-width="1.5" fill="none" opacity="0.5"/>
+</svg>
