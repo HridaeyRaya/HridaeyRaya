@@ -1,20 +1,17 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║   HRIDAEY RAYA — GitHub Profile README                      ║
-  ║   SETUP: Upload banner.svg, tech-section.svg,               ║
-  ║          tools-achieve.svg to your profile repo root.       ║
-  ║   Then replace YOUR_USERNAME with: HridaeyRaya              ║
+  ║   Upload: README.md + banner.svg + tech-section.svg         ║
+  ║           + tools-achieve.svg  to repo root                 ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<!-- ═══ ANIMATED HERO BANNER (SVG — full dark cyberpunk style) ═══ -->
 <img src="https://raw.githubusercontent.com/HridaeyRaya/HridaeyRaya/main/banner.svg" width="100%" alt="Hridaey Raya Banner"/>
 
 <br/><br/>
 
-<!-- ═══ SOCIAL BADGES ═══ -->
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/hrridaey)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hridaey__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridaaeyrayamajhi22)
@@ -62,23 +59,40 @@ const hridaey = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HridaeyRaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00e5ff&text_color=e8e8f0&icon_color=a259ff&border_radius=12" height="170"/>
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HridaeyRaya&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=a259ff&currStreakLabel=e8e8f0&border_radius=12" height="170"/>
+<!-- STATS CARD — working provider -->
+<img src="https://github-readme-stats.vercel.app/api?username=HridaeyRaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00e5ff&text_color=e8e8f0&icon_color=a259ff&border_radius=12" height="170"/>
+&nbsp;&nbsp;
+<!-- STREAK — using a reliable alternate provider -->
+<img src="https://streak-stats.demolab.com?user=HridaeyRaya&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=a259ff&currStreakLabel=e8e8f0&border_radius=12&dates=7878a0&stroke=2a2a3a&sideLabels=7878a0" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRaya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0a0f&title_color=00e5ff&text_color=e8e8f0&border_radius=12" height="150"/>
+<!-- TOP LANGUAGES — working provider -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRaya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0a0f&title_color=00e5ff&text_color=e8e8f0&border_radius=12&langs_count=8" height="160"/>
 
 </div>
 
 ---
 
-## 💻 &nbsp; Activity Graph
+## 🌌 &nbsp; Contribution Galaxy
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRaya&theme=tokyo-night&area=true&hide_border=true&bg_color=0a0a0f&color=00e5ff&line=a259ff&point=ffd166)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- SNAKE ANIMATION — contributions eaten as a snake, looks insane -->
+<img src="https://raw.githubusercontent.com/HridaeyRaya/HridaeyRaya/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+
+<br/>
+
+<!-- ISOMETRIC 3D contribution calendar — unique and jaw-dropping -->
+<a href="https://githubtrends.io">
+  <img src="https://api.githubtrends.io/user/svg/HridaeyRaya/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" width="48%" alt="Language Trends"/>
+  <img src="https://api.githubtrends.io/user/svg/HridaeyRaya/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" width="48%" alt="Repo Trends"/>
+</a>
+
+<br/><br/>
+
+<!-- ACTIVITY GRAPH — neon style -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRaya&theme=tokyo-night&area=true&hide_border=true&bg_color=0a0a0f&color=00e5ff&line=a259ff&point=ffd166&area_color=00e5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
