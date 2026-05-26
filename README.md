@@ -84,7 +84,12 @@ VS Code | Git | GitHub CLI | Postman
 Open to collaboration, freelance opportunities, and innovative project ideas. Let’s build something impactful. -->
 
 
-<div align="center">
+
+
+
+
+
+<!-- <div align="center">
 
 <!-- Animated Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Hridaey+Raya+%F0%9F%91%8B;Full-Stack+Developer;Tech+Explorer+%26+Guitarist;Let's+Build+Something+Awesome!)](https://git.io/typing-svg)
@@ -286,4 +291,192 @@ Open to collaboration, freelance opportunities, and innovative project ideas. Le
 
 <div align="center">
   <sub>✨ Crafted with code, coffee, and guitar strings ✨</sub>
+</div> -->
+
+
+
+
+
+
+<div align="center">
+
+<!-- ANIMATED TYPING HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+%F0%9F%91%8B+I'm+Hridaey+Raya;Full-Stack+Dev+%7C+Guitarist+%7C+Builder)](https://git.io/typing-svg)
+
+<br>
+
+<!-- STATUS BADGE -->
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Available-Open%20to%20Work-00D4FF?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/%F0%9F%87%B3%F0%9F%87%B5%20Based-Kathmandu%2C%20Nepal-a259ff?style=for-the-badge&labelColor=0d1117)
+![Age](https://img.shields.io/badge/%F0%9F%91%A4%20Age-23-ffd166?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```js
+const hridaey = {
+  name:      "Hridaey Raya",
+  location:  "Kathmandu, Nepal 🇳🇵",
+  role:      "Full-Stack Developer",
+  passion:   ["clean code", "modern UX", "guitar 🎸", "problem solving"],
+  currently: "Building impactful web products in 2026",
+  available: true,
+};
+```
+
+> *"Code with rhythm, ship with melody."*
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎨 Frontend
+
+| Technology | Proficiency |
+|---|---|
+| ⚛️ React | `████████████████████` **Expert** |
+| ▲ Next.js | `████████████████░░░░` **Advanced** |
+| 🟨 JavaScript | `████████████████████` **Expert** |
+| 🌐 HTML5 / CSS3 | `████████████████████` **Expert** |
+| 🎨 Tailwind CSS | `█████████████████░░░` **Advanced** |
+| ⚡ Vite | `████████████████░░░░` **Advanced** |
+| 🅱️ Bootstrap | `███████████████░░░░░` **Proficient** |
+
+### ⚙️ Backend
+
+| Technology | Proficiency |
+|---|---|
+| 🟩 Node.js | `█████████████████░░░` **Advanced** |
+| 🚂 Express.js | `█████████████████░░░` **Advanced** |
+| 🐍 Django | `███████████████░░░░░` **Proficient** |
+| 🐘 PHP | `██████████████░░░░░░` **Proficient** |
+| 🔴 Laravel | `██████████████░░░░░░` **Proficient** |
+| 🔐 JWT Auth | `█████████████████░░░` **Advanced** |
+
+### 🗄️ Databases
+
+| Technology | Proficiency |
+|---|---|
+| 🍃 MongoDB | `█████████████████░░░` **Advanced** |
+| 🐬 MySQL | `█████████████████░░░` **Advanced** |
+
+### ☁️ Cloud & Deployment
+
+| Technology | Proficiency |
+|---|---|
+| ☁️ AWS | `███████████████░░░░░` **Proficient** |
+| ▲ Vercel | `█████████████████░░░` **Advanced** |
+| 🌐 Netlify | `█████████████████░░░` **Advanced** |
+| 🪶 Apache | `████████████░░░░░░░░` **Intermediate** |
+
+---
+
+## 📈 2026 Learning Roadmap
+
+<div align="center">
+
+| Skill | Progress | Level |
+|---|---|---|
+| ⚛️ React | `████████████████████` 100% | 🔥 Mastered |
+| 🟩 Node.js | `███████████████░░░░░` 75% | 📈 Advancing |
+| ▲ Next.js | `████████████████░░░░` 80% | 📈 Advancing |
+| 🔵 TypeScript | `████████████░░░░░░░░` 60% | 🌱 Growing |
+| 🐍 Django | `████████████░░░░░░░░` 60% | 🌱 Growing |
+| 🔴 Laravel | `████████████░░░░░░░░` 60% | 🌱 Growing |
+
+</div>
+
+---
+
+## 🧰 Daily Drivers
+
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub%20CLI-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Achievements & Certificates
+
+| Badge | Certificate | Domain |
+|---|---|---|
+| 🎖️ | Frontend Development with React.js | Frontend Engineering |
+| 🧠 | Linux Virtualization for Machine Learning | DevOps & ML Infrastructure |
+| 📜 | GIT Training | Version Control |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HridaeyRaya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HridaeyRaya&theme=tokyonight&hide_border=true" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRaya&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+
+</div>
+
+---
+
+## 💻 Activity Graph
+
+<div align="center">
+
+[![Hridaey's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRaya&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎸 Creative Vibe
+
+<div align="center">
+
+```
+♩ ♪ ♫ ♬  Code meets music  ♬ ♫ ♪ ♩
+
+   🎸  Guitarist & Vocalist
+   🎵  Every project ships with artistry
+   ⚡  Where logic meets rhythm
+```
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/hrridaey)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/hridaey__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hridaaeyrayamajhi22)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@hridaaey_rayamajhi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hridaeyraya.22@gmail.com)
+
+<br>
+
+> Open to **collaboration**, **freelance gigs**, and **innovative project ideas.**
+> Let's build something impactful together! 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ Crafted with code, coffee, and guitar strings · Kathmandu, Nepal 🇳🇵 ✨</sub>
 </div>
