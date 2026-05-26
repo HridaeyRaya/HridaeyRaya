@@ -62,9 +62,6 @@ const hridaey = {
 <!-- STREAK — demolab is reliable -->
 <img src="https://streak-stats.demolab.com?user=HridaeyRaya&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=a259ff&currStreakLabel=e8e8f0&border_radius=12&dates=7878a0&stroke=2a2a3a&sideLabels=7878a0" height="170" alt="Streak Stats"/>
 
-<br/><br/>
-
-
 </div>
 
 ---
