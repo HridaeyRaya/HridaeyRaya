@@ -59,15 +59,12 @@ const hridaey = {
 
 <div align="center">
 
-<!-- STATS CARD — working provider -->
 <img src="https://github-readme-stats.vercel.app/api?username=HridaeyRaya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=00e5ff&text_color=e8e8f0&icon_color=a259ff&border_radius=12" height="170"/>
 &nbsp;&nbsp;
-<!-- STREAK — using a reliable alternate provider -->
 <img src="https://streak-stats.demolab.com?user=HridaeyRaya&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=a259ff&currStreakLabel=e8e8f0&border_radius=12&dates=7878a0&stroke=2a2a3a&sideLabels=7878a0" height="170"/>
 
 <br/><br/>
 
-<!-- TOP LANGUAGES — working provider -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HridaeyRaya&theme=tokyonight&hide_border=true&layout=compact&bg_color=0a0a0f&title_color=00e5ff&text_color=e8e8f0&border_radius=12&langs_count=8" height="160"/>
 
 </div>
@@ -78,21 +75,18 @@ const hridaey = {
 
 <div align="center">
 
-<!-- SNAKE ANIMATION — contributions eaten as a snake, looks insane -->
-<img src="https://raw.githubusercontent.com/HridaeyRaya/HridaeyRaya/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
-
-<br/>
-
-<!-- ISOMETRIC 3D contribution calendar — unique and jaw-dropping -->
-<a href="https://githubtrends.io">
-  <img src="https://api.githubtrends.io/user/svg/HridaeyRaya/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" width="48%" alt="Language Trends"/>
-  <img src="https://api.githubtrends.io/user/svg/HridaeyRaya/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" width="48%" alt="Repo Trends"/>
-</a>
+<!-- DARK snake — uses the dark SVG from the output branch -->
+<img src="https://raw.githubusercontent.com/HridaeyRaya/HridaeyRaya/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Dark" width="100%"/>
 
 <br/><br/>
 
-<!-- ACTIVITY GRAPH — neon style -->
+<!-- NEON ACTIVITY GRAPH -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HridaeyRaya&theme=tokyo-night&area=true&hide_border=true&bg_color=0a0a0f&color=00e5ff&line=a259ff&point=ffd166&area_color=00e5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+<!-- WAKATIME-STYLE profile trophy row — 100% reliable -->
+<img src="https://github-profile-trophy.vercel.app/?username=HridaeyRaya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" width="100%"/>
 
 </div>
 
